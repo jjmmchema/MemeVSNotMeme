@@ -4,3 +4,4 @@ data/
 MODELS/
 TEST_IMGS/
 backup/
+*.onnx
